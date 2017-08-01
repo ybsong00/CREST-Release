@@ -5,7 +5,7 @@ There is three folders in this repository where matconvnet toolbox and Skiing se
 
 Before running our code, check if you have a state-of-the-art GPU. I develop this code using Titan Black. Make sure yours are better than mine :-).
 
-Please download the VGG-16 model and put it on the 'CREST/exp/model/' directory. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
+Please download the VGG-16 model and put it under 'CREST/exp/model/'. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
 
 Meanwhile, please configure matconvnet on your side.
 

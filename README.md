@@ -1,4 +1,7 @@
-This is the implementation of our CREST paper. It contains matconvnet toolbox and Skiing sequences from the OTB dataset. Our main development is kept in the folder CREST.
+This is the implementation of our CREST paper. The project page can be found here:
+http://www.cs.cityu.edu.hk/~yibisong/iccv17/index.html
+
+There is three folders in this repository where matconvnet toolbox and Skiing sequences are contained. Our main development is kept in the folder CREST.
 
 Before running our code, check if you have a state-of-the-art GPU. I develop this code using Titan Black. Make sure yours are better than mine :-).
 

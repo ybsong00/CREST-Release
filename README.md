@@ -9,10 +9,10 @@ Meanwhile, please configure matconvnet on your side.
 Try 'CREST/demo.m' to see the tracker performance on the Skiing sequences.
 
 <p>If you find the code and datasets useful in your research, please cite:</p>
-<pre><code>@inproceedings{LapSRN,
-    author    = {Lai, Wei-Sheng and Huang, Jia-Bin and Ahuja, Narendra and Yang, Ming-Hsuan}, 
-    title     = {Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution}, 
-    booktitle = {IEEE Conferene on Computer Vision and Pattern Recognition},
+<pre><code>@inproceedings{song-iccv17-CREST,
+    author    = {Song, Yibing and Ma, Chao and Gong, Lijun and Zhang, Jiawei and Lau, Rynson and Yang, Ming-Hsuan}, 
+    title     = {CREST: Convolutional Residual Learning for Visual Tracking}, 
+    booktitle = {IEEE International Conference on Computer Vision},
     year      = {2017}
 }
 </code></pre>

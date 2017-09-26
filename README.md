@@ -7,7 +7,7 @@ Before running our code, check if you have a state-of-the-art GPU. I develop thi
 
 Please download the VGG-16 model and put it under 'CREST/exp/model/'. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
 
-Meanwhile, please configure matconvnet on your side.
+Meanwhile, please configure matconvnet on your side. (You need to compile matconvnet using the provided because of the modifications.)
 
 Try 'CREST/demo.m' to see the tracker performance on the Skiing sequences.
 

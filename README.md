@@ -1,5 +1,5 @@
 This is the implementation of our CREST paper. The project page can be found here:
-http://www.cs.cityu.edu.hk/~yibisong/iccv17/index.html
+https://ybsong00.github.io/iccv17/index.html
 
 There are three folders in this repository where the matconvnet toolbox and Skiing sequences are contained. Our main development is kept in the folder CREST.
 

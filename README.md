@@ -20,3 +20,8 @@ Try 'CREST/demo.m' to see the tracker performance on the Skiing sequences.
     year      = {2017}
 }
 </code></pre>
+
+
+You might encounter the vl_nnconv problem when using the code in windows. This code is developed in linux and the compatible issues exist between different OS. Check the following link for a solution.
+
+https://blog.csdn.net/tjdatamining/article/details/78376672
